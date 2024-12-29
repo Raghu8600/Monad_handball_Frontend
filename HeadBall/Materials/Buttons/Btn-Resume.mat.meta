@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 94e8d6b0c2bad7141a1b94ede6411002
+timeCreated: 1468224289
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95077
+  packageName: Soccer Head-Ball Championship Game Kit
+  packageVersion: 1.4
+  assetPath: Assets/HeadBall/Materials/Buttons/Btn-Resume.mat
+  uploadId: 404859

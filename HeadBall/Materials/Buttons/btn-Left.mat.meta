@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30dcc64a94763804d9aec30b3ea5a01e
+timeCreated: 1468058899
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95077
+  packageName: Soccer Head-Ball Championship Game Kit
+  packageVersion: 1.4
+  assetPath: Assets/HeadBall/Materials/Buttons/btn-Left.mat
+  uploadId: 404859

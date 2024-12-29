@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3a3b6cb24cc2b18409aea79e9d4f1797
+timeCreated: 1468225717
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95077
+  packageName: Soccer Head-Ball Championship Game Kit
+  packageVersion: 1.4
+  assetPath: Assets/HeadBall/Materials/UI/GameFinishPlane.mat
+  uploadId: 404859

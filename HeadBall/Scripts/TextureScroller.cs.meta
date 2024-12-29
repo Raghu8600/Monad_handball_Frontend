@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6dbc33b356cab6c419026138cd379d29
+timeCreated: 1498896759
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95077
+  packageName: Soccer Head-Ball Championship Game Kit
+  packageVersion: 1.4
+  assetPath: Assets/HeadBall/Scripts/TextureScroller.cs
+  uploadId: 404859

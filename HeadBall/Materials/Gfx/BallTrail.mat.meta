@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3a36460205856804ca624cff548c73c4
+timeCreated: 1466062607
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95077
+  packageName: Soccer Head-Ball Championship Game Kit
+  packageVersion: 1.4
+  assetPath: Assets/HeadBall/Materials/Gfx/BallTrail.mat
+  uploadId: 404859

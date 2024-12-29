@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec9ea4f1ed5825e4f80fefcfaf8366fc
+timeCreated: 1466840595
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95077
+  packageName: Soccer Head-Ball Championship Game Kit
+  packageVersion: 1.4
+  assetPath: Assets/HeadBall/Materials/Gfx/Counter.mat
+  uploadId: 404859

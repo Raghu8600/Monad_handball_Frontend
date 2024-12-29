@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f69e944610c63cc438389a4f1745c075
+timeCreated: 1468221391
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95077
+  packageName: Soccer Head-Ball Championship Game Kit
+  packageVersion: 1.4
+  assetPath: Assets/HeadBall/Materials/UI/PausePlane.mat
+  uploadId: 404859

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce87c42700b2e6748992a521f6dbbe4d
+timeCreated: 1466842457
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95077
+  packageName: Soccer Head-Ball Championship Game Kit
+  packageVersion: 1.4
+  assetPath: Assets/HeadBall/Prefabs/Counter.prefab
+  uploadId: 404859

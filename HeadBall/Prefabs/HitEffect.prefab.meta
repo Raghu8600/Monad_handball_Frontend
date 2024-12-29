@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b2a783d0ff212684db9cfde99115a554
+timeCreated: 1468140007
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95077
+  packageName: Soccer Head-Ball Championship Game Kit
+  packageVersion: 1.4
+  assetPath: Assets/HeadBall/Prefabs/HitEffect.prefab
+  uploadId: 404859

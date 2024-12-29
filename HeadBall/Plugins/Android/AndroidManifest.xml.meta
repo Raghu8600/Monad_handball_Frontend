@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f972552de44ab804992fab93882cf4bb
+timeCreated: 1452008795
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95077
+  packageName: Soccer Head-Ball Championship Game Kit
+  packageVersion: 1.4
+  assetPath: Assets/HeadBall/Plugins/Android/AndroidManifest.xml
+  uploadId: 404859

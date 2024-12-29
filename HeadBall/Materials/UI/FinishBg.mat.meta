@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f70ab201072f407498c52ad9988ce2fe
+timeCreated: 1468224811
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95077
+  packageName: Soccer Head-Ball Championship Game Kit
+  packageVersion: 1.4
+  assetPath: Assets/HeadBall/Materials/UI/FinishBg.mat
+  uploadId: 404859

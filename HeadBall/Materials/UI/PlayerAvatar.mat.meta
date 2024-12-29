@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a35bcbfc9498854468593af9b0c81c07
+timeCreated: 1468227605
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95077
+  packageName: Soccer Head-Ball Championship Game Kit
+  packageVersion: 1.4
+  assetPath: Assets/HeadBall/Materials/UI/PlayerAvatar.mat
+  uploadId: 404859

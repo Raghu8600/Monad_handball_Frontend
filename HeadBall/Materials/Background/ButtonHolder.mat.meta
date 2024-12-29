@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6e2f4ff3f2cc2640bb774806ef45e6b
+timeCreated: 1466061399
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95077
+  packageName: Soccer Head-Ball Championship Game Kit
+  packageVersion: 1.4
+  assetPath: Assets/HeadBall/Materials/Background/ButtonHolder.mat
+  uploadId: 404859

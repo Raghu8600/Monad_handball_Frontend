@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 66725e32ef8ce5049bc000a0eb068e1d
+timeCreated: 1468221248
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95077
+  packageName: Soccer Head-Ball Championship Game Kit
+  packageVersion: 1.4
+  assetPath: Assets/HeadBall/Materials/Buttons/btn-Pause.mat
+  uploadId: 404859

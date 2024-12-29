@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 88607648a5716e74f946b81719e5cd15
+timeCreated: 1468224289
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95077
+  packageName: Soccer Head-Ball Championship Game Kit
+  packageVersion: 1.4
+  assetPath: Assets/HeadBall/Materials/Buttons/Btn-Restart.mat
+  uploadId: 404859
